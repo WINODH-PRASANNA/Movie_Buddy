@@ -10,12 +10,12 @@ Movie Buddy is a modern and user-friendly movie website built using React.js, Vi
 - ⚡ Fast & Optimized – Built with Vite for fast performance.
 
 ## 🛠️ Technologies Used
--React.js – For building the interactive UI.
+- React.js – For building the interactive UI.
 
--Vite – Fast development server and build tool.
+- Vite – Fast development server and build tool.
 
--Tailwind CSS – For styling and responsive design.
+- Tailwind CSS – For styling and responsive design.
 
--MovieDB API – To fetch movie data.
+- MovieDB API – To fetch movie data.
 
--JavaScript (ES6+) – For logic and interactivity.
+- JavaScript (ES6+) – For logic and interactivity.
