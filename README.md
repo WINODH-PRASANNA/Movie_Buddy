@@ -21,9 +21,9 @@ Movie Buddy is a modern and user-friendly movie website built using React.js, Vi
 1 Clone the repository
 - git clone https://github.com/WINODH-PRASANNA/Movie_Buddy.git
 - cd movie-buddy
-   Install dependencies
+2 Install dependencies
 - npm install
-   Create a .env file and add your MovieDB API Key
+3 Create a .env file and add your MovieDB API Key
 - VITE_MOVIE_API_KEY=your_api_key_here
-   Start the development server
+4 Start the development server
 - npm run dev
