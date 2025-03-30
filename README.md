@@ -17,3 +17,4 @@ Movie Buddy is a modern and user-friendly movie website built using React.js, Vi
 - JavaScript (ES6+) – For logic and interactivity.
 
 ## 📦 Installation
+### Follow these steps to set up the project locally
