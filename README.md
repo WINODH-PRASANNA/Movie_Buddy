@@ -18,3 +18,6 @@ Movie Buddy is a modern and user-friendly movie website built using React.js, Vi
 
 ## 📦 Installation
 ### Follow these steps to set up the project locally
+1 Clone the repository :
+- git clone https://github.com/yourusername/movie-buddy.git
+- cd movie-buddy
