@@ -34,6 +34,8 @@ This project uses the MovieDB API. To obtain an API key
 - Navigate to "Settings" > "API" and generate a key.
 - Add the key to your .env file as shown above.
 
+## 🤝 Contributing
+Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-
-
+## 📜 License
+This project is licensed under the MIT License.
